@@ -29,7 +29,9 @@ To read the saved data file type
 `read.table('tidyData.txt',header=T)`
 
 Requirements for running this script is:
+
 1. The Samsung data folder should be in the working directory
+
 2. data.table packages needs to be installed
 
 ## Description of what the code does.

@@ -2,9 +2,12 @@
 
 This codebook describes the tidy dataset created by running `run_analysis.R`
 
-Information about the original dataset can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Information about the original raw dataset can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Description of the variables in the tidy data set.
+
+There are two categorical variables in this dataset. `Subject` and `Activity`. They describe which subject we have (1-30) and what activity they are perfoming (WALKING, WALKING_UPSTAIRS,WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING). We then have 66 measure variables. The tidy dataset gives the mean value of the measure for each subject and each activity. Thus the tidy dataset has 180 observations (30 subjects X 6 activities) with 68 values each observation. Further description of the measure variables is below.
+
 
 | Variable | Description
 -----------|-------------

@@ -5,6 +5,11 @@ This codebook describes the tidy dataset created by running `run_analysis.R`
 Information about the original dataset can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Description of the variables in the tidy data set.
+
+Variable | Description
+
+--------- | ------------
+
 Subject | The subject ID's 
 
 Activity | The activity labels

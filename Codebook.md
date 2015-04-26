@@ -1,4 +1,4 @@
-## Codebook.mdSubject | Subject |
+## Codebook.md
 
 This codebook describes the tidy dataset created by running `run_analysis.R`
 
@@ -6,9 +6,8 @@ Information about the original dataset can be found at http://archive.ics.uci.ed
 
 ## Description of the variables in the tidy data set.
 
-Variable | Description
-
---------- | ------------
+| Variable | Description
+-----------|-------------
 
 | Subject | The subject ID's 
 

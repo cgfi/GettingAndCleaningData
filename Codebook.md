@@ -10,140 +10,138 @@ Variable | Description
 
 --------- | ------------
 
-Subject | The subject ID's 
+| Subject | The subject ID's 
 
-Activity | The activity labels
+| Activity | The activity labels
 
-tBodyAccmeanX | Time domain signals of the body accelleration mean of the X-axis
+| tBodyAccmeanX | Time domain signals of the body accelleration mean of the X-axis
 
-tBodyAccmeanY | Time domain signals of the body accelleration mean of the Y-axis
+| tBodyAccmeanY | Time domain signals of the body accelleration mean of the Y-axis
 
-tBodyAccmeanZ | Time domain signals of the body accelleration mean of the Z-axis
+| tBodyAccmeanZ | Time domain signals of the body accelleration mean of the Z-axis
 
-tBodyAccstdX | Time domain signals of the body accelleration std of the X-axis
+| tBodyAccstdX | Time domain signals of the body accelleration std of the X-axis
 
-tBodyAccstdY | Time domain signals of the body accelleration std of the Y-axis
+| tBodyAccstdY | Time domain signals of the body accelleration std of the Y-axis
 
-tBodyAccstdZ | Time domain signals of the body accelleration std of the Z-axis
+| tBodyAccstdZ | Time domain signals of the body accelleration std of the Z-axis
 
-tGravityAccmeanX | Time domain signals of gravity accelleration mean of the X-axis
+| tGravityAccmeanX | Time domain signals of gravity accelleration mean of the X-axis
 
-tGravityAccmeanY | Time domain signals of gravity accelleration mean of the Y-axis
+| tGravityAccmeanY | Time domain signals of gravity accelleration mean of the Y-axis
 
-tGravityAccmeanZ | Time domain signals of gravity accelleration mean of the Z-axis
+| tGravityAccmeanZ | Time domain signals of gravity accelleration mean of the Z-axis
 
-tGravityAccstdX | Time domain signals of gravity accelleration std of the X-axis
+| tGravityAccstdX | Time domain signals of gravity accelleration std of the X-axis
 
-tGravityAccstdY | Time domain signals of gravity accelleration std of the Y-axis
+| tGravityAccstdY | Time domain signals of gravity accelleration std of the Y-axis
 
-tGravityAccstdZ | Time domain signals of gravity accelleration std of the Z-axis
+| tGravityAccstdZ | Time domain signals of gravity accelleration std of the Z-axis
 
-tBodyAccJerkmeanX | Time domain signals of the body accelleration jerk mean of the X-axis
+| tBodyAccJerkmeanX | Time domain signals of the body accelleration jerk mean of the X-axis
 
-tBodyAccJerkmeanY | Time domain signals of the body accelleration jerk mean of the Y-axis
+| tBodyAccJerkmeanY | Time domain signals of the body accelleration jerk mean of the Y-axis
 
-tBodyAccJerkmeanZ | Time domain signals of the body accelleration jerk mean of the Z-axis
+| tBodyAccJerkmeanZ | Time domain signals of the body accelleration jerk mean of the Z-axis
 
-tBodyAccJerkstdX | Time domain signals of the body accelleration jerk std of the X-axis
+| tBodyAccJerkstdX | Time domain signals of the body accelleration jerk std of the X-axis
 
-tBodyAccJerkstdY | Time domain signals of the body accelleration jerk std of the Y-axis
+| tBodyAccJerkstdY | Time domain signals of the body accelleration jerk std of the Y-axis
 
-tBodyAccJerkstdZ | Time domain signals of the body accelleration jerk std of the Z-axis
+| tBodyAccJerkstdZ | Time domain signals of the body accelleration jerk std of the Z-axis
 
-tBodyGyromeanX | Time domain signals of the body gyroscope mean of the X-axis
+| tBodyGyromeanX | Time domain signals of the body gyroscope mean of the X-axis
 
-tBodyGyromeanY | Time domain signals of the body gyroscope mean of the Y-axis
+| tBodyGyromeanY | Time domain signals of the body gyroscope mean of the Y-axis
 
-tBodyGyromeanZ | Time domain signals of the body gyroscope mean of the Z-axis
+| tBodyGyromeanZ | Time domain signals of the body gyroscope mean of the Z-axis
 
-tBodyGyrostdX | Time domain signals of the body gyroscope std of the X-axis
+| tBodyGyrostdX | Time domain signals of the body gyroscope std of the X-axis
 
-tBodyGyrostdY | Time domain signals of the body gyroscope std of the Y-axis
+| tBodyGyrostdY | Time domain signals of the body gyroscope std of the Y-axis
 
-tBodyGyrostdZ | Time domain signals of the body gyroscope std of the Z-axis
+| tBodyGyrostdZ | Time domain signals of the body gyroscope std of the Z-axis
 
-tBodyGyroJerkmeanX | Time domain signals of the body gyroscope jerk mean of the X-axis
+| tBodyGyroJerkmeanX | Time domain signals of the body gyroscope jerk mean of the X-axis
 
-tBodyGyroJerkmeanY | Time domain signals of the body gyroscope jerk mean of the Y-axis
+| tBodyGyroJerkmeanY | Time domain signals of the body gyroscope jerk mean of the Y-axis
 
-tBodyGyroJerkmeanZ | Time domain signals of the body gyroscope jerk mean of the Z-axis
+| tBodyGyroJerkmeanZ | Time domain signals of the body gyroscope jerk mean of the Z-axis
 
-tBodyGyroJerkstdX | Time domain signals of the body gyroscope jerk std of the X-axis
+| tBodyGyroJerkstdX | Time domain signals of the body gyroscope jerk std of the X-axis
 
-tBodyGyroJerkstdY | Time domain signals of the body gyroscope jerk std of the Y-axis
+| tBodyGyroJerkstdY | Time domain signals of the body gyroscope jerk std of the Y-axis
 
-tBodyGyroJerkstdZ | Time domain signals of the body gyroscope jerk std of the Z-axis
+| tBodyGyroJerkstdZ | Time domain signals of the body gyroscope jerk std of the Z-axis
 
-tBodyAccMagmean | Time domain signals of the body accelleration magnitude mean
+| tBodyAccMagmean | Time domain signals of the body accelleration magnitude mean
 
-tBodyAccMagstd | Time domain signals of the body accelleration magnitude std
+| tBodyAccMagstd | Time domain signals of the body accelleration magnitude std
 
-tGravityAccMagmean | Time domain signals of gravity accelleration magnitude mean
+| tGravityAccMagmean | Time domain signals of gravity accelleration magnitude mean
 
-tGravityAccMagstd | Time domain signals of gravity accelleration magnitude std
+| tGravityAccMagstd | Time domain signals of gravity accelleration magnitude std
 
-tBodyAccJerkMagmean | Time domain signals of the body accelleration jerk magnitude mean
+| tBodyAccJerkMagmean | Time domain signals of the body accelleration jerk magnitude mean
 
-tBodyAccJerkMagstd | Time domain signals of the body accelleration jerk magnitude std
+| tBodyAccJerkMagstd | Time domain signals of the body accelleration jerk magnitude std
 
-tBodyGyroMagmean | Time domain signals of the body gyroscope magnitude mean
+| tBodyGyroMagmean | Time domain signals of the body gyroscope magnitude mean
 
-tBodyGyroMagstd | Time domain signals of the body gyroscope magnitude std
+| tBodyGyroMagstd | Time domain signals of the body gyroscope magnitude std
 
-tBodyGyroJerkMagmean | Time domain signals of the body gyroscope jerk magnitude mean
+| tBodyGyroJerkMagmean | Time domain signals of the body gyroscope jerk magnitude mean
 
-tBodyGyroJerkMagstd | Time domain signals of the body gyroscope jerk magnitude std
+| tBodyGyroJerkMagstd | Time domain signals of the body gyroscope jerk magnitude std
 
-fBodyAccmeanX | Fast Fourier Transformation of the body accelleration mean of the X-axis
+| fBodyAccmeanX | Fast Fourier Transformation of the body accelleration mean of the X-axis
 
-fBodyAccmeanY | Fast Fourier Transformation of the body accelleration mean of the Y-axis
+| fBodyAccmeanY | Fast Fourier Transformation of the body accelleration mean of the Y-axis
 
-fBodyAccmeanZ | Fast Fourier Transformation of the body accelleration mean of the Z-axis
+| fBodyAccmeanZ | Fast Fourier Transformation of the body accelleration mean of the Z-axis
 
-fBodyAccstdX | Fast Fourier Transformation of the body accelleration std of the X-axis
+| fBodyAccstdX | Fast Fourier Transformation of the body accelleration std of the X-axis
 
-fBodyAccstdY | Fast Fourier Transformation of the body accelleration std of the Y-axis
+| fBodyAccstdY | Fast Fourier Transformation of the body accelleration std of the Y-axis
 
-fBodyAccstdZ | Fast Fourier Transformation of the body accelleration std of the Z-axis
+| fBodyAccstdZ | Fast Fourier Transformation of the body accelleration std of the Z-axis
 
-fBodyAccJerkmeanX | Fast Fourier Transformation of the body accelleration jerk mean of the X-axis
+| fBodyAccJerkmeanX | Fast Fourier Transformation of the body accelleration jerk mean of the X-axis
 
-fBodyAccJerkmeanY | Fast Fourier Transformation of the body accelleration jerk mean of the Y-axis
+| fBodyAccJerkmeanY | Fast Fourier Transformation of the body accelleration jerk mean of the Y-axis
 
-fBodyAccJerkmeanZ | Fast Fourier Transformation of the body accelleration jerk mean of the Z-axis
+| fBodyAccJerkmeanZ | Fast Fourier Transformation of the body accelleration jerk mean of the Z-axis
 
-fBodyAccJerkstdX | Fast Fourier Transformation of the body accelleration jerk std of the X-axis
+| fBodyAccJerkstdX | Fast Fourier Transformation of the body accelleration jerk std of the X-axis
 
-fBodyAccJerkstdY | Fast Fourier Transformation of the body accelleration jerk std of the Y-axis
+| fBodyAccJerkstdY | Fast Fourier Transformation of the body accelleration jerk std of the Y-axis
 
-fBodyAccJerkstdZ | Fast Fourier Transformation of the body accelleration jerk std of the Z-axis
+| fBodyAccJerkstdZ | Fast Fourier Transformation of the body accelleration jerk std of the Z-axis
 
-fBodyGyromeanX | Fast Fourier Transformation of the body gyroscope mean of the X-axis
+| fBodyGyromeanX | Fast Fourier Transformation of the body gyroscope mean of the X-axis
 
-fBodyGyromeanY | Fast Fourier Transformation of the body gyroscope mean of the Y-axis
+| fBodyGyromeanY | Fast Fourier Transformation of the body gyroscope mean of the Y-axis
 
-fBodyGyromeanZ | Fast Fourier Transformation of the body gyroscope mean of the Z-axis
+| fBodyGyromeanZ | Fast Fourier Transformation of the body gyroscope mean of the Z-axis
 
-fBodyGyrostdX | Fast Fourier Transformation of the body gyroscope std of the X-axis
+| fBodyGyrostdX | Fast Fourier Transformation of the body gyroscope std of the X-axis
 
-fBodyGyrostdY | Fast Fourier Transformation of the body gyroscope std of the Y-axis
+| fBodyGyrostdY | Fast Fourier Transformation of the body gyroscope std of the Y-axis
 
-fBodyGyrostdZ | Fast Fourier Transformation of the body gyroscope std of the Z-axis
+| fBodyGyrostdZ | Fast Fourier Transformation of the body gyroscope std of the Z-axis
 
-fBodyAccMagmean | Fast Fourier Transformation of the body accelleration magnitude mean
+| fBodyAccMagmean | Fast Fourier Transformation of the body accelleration magnitude mean
 
-fBodyAccMagstd | Fast Fourier Transformation of the body accelleration magnitude std
+| fBodyAccMagstd | Fast Fourier Transformation of the body accelleration magnitude std
 
-fBodyBodyAccJerkMagmean | Fast Fourier Transformation of the body accelleration jerk magnitude mean
+| fBodyBodyAccJerkMagmean | Fast Fourier Transformation of the body accelleration jerk magnitude mean
 
-fBodyBodyAccJerkMagstd | Fast Fourier Transformation of the body accelleration jerk magnitude std
+| fBodyBodyAccJerkMagstd | Fast Fourier Transformation of the body accelleration jerk magnitude std
 
-fBodyBodyGyroMagmean | Fast Fourier Transformation of the body gyroscope magnitude mean
+| fBodyBodyGyroMagmean | Fast Fourier Transformation of the body gyroscope magnitude mean
 
-fBodyBodyGyroMagstd | Fast Fourier Transformation of the body gyroscope magnitude std
+| fBodyBodyGyroMagstd | Fast Fourier Transformation of the body gyroscope magnitude std
 
-fBodyBodyGyroJerkMagmean | Fast Fourier Transformation of the body gyroscope jerk magnitude mean
+| fBodyBodyGyroJerkMagmean | Fast Fourier Transformation of the body gyroscope jerk magnitude mean
 
-fBodyBodyGyroJerkMagstd | Fast Fourier Transformation of the body gyroscope jerk magnitude std
-
-
+| fBodyBodyGyroJerkMagstd | Fast Fourier Transformation of the body gyroscope jerk magnitude std
